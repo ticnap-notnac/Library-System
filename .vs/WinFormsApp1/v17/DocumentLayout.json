@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files\\KMSpico\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\program files\\kmspico\\winformsapp1\\winformsapp1\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\program files\\kmspico\\winformsapp1\\winformsapp1\\removeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\removeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\program files\\kmspico\\winformsapp1\\winformsapp1\\addform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\addform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\program files\\kmspico\\winformsapp1\\winformsapp1\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\program files\\kmspico\\winformsapp1\\winformsapp1\\removeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\removeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\program files\\kmspico\\winformsapp1\\winformsapp1\\returnform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\returnform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\program files\\kmspico\\winformsapp1\\winformsapp1\\returnform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FD4826D0-BF41-4A25-AAFA-50D6FA66E4A8}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\returnform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\Main.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.vb",
+              "ToolTip": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\Main.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T05:11:07.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddForm.vb [Design]",
+              "DocumentMoniker": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\AddForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddForm.vb",
+              "ToolTip": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\AddForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\AddForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T05:10:57.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReturnForm.vb [Design]",
+              "DocumentMoniker": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\ReturnForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ReturnForm.vb",
+              "ToolTip": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\ReturnForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ReturnForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T02:07:46.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReturnForm.vb",
+              "DocumentMoniker": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\ReturnForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ReturnForm.vb",
+              "ToolTip": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\ReturnForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\ReturnForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T02:06:46.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveForm.vb [Design]",
+              "DocumentMoniker": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\RemoveForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RemoveForm.vb",
+              "ToolTip": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\RemoveForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\RemoveForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T01:47:07.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveForm.vb",
+              "DocumentMoniker": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\RemoveForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\RemoveForm.vb",
+              "ToolTip": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\RemoveForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\RemoveForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA8wAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T02:07:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.vb",
+              "DocumentMoniker": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\Main.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.vb",
+              "ToolTip": "C:\\Program Files\\KMSpico\\WinFormsApp1\\WinFormsApp1\\Main.vb",
+              "RelativeToolTip": "WinFormsApp1\\Main.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T02:01:31.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
